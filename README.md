@@ -37,7 +37,7 @@ Full-Stack Developer building practical, user-friendly web apps with <b>Java, Sp
 <td valign="top" width="50%">
 
 ### 📚 Currently Learning
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" height="32"/> System Design
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" height="32"/> <img src="https://img.shields.io/badge/System_Design-4B0082?style=flat-square&logo=diagramsdotnet&logoColor=white" />
 
 **🤝 Open to:** Open-source · Web dev collabs
 
